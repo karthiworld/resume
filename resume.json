@@ -1,0 +1,112 @@
+{
+  "name": "KARTHIKEYAN R",
+  "title": "Senior Frontend Engineer (React / Next.js) | 10+ Years Experience",
+  "contact": [
+    {
+      "text": "Bangalore, India"
+    },
+    {
+      "text": "+91-9487039560",
+      "href": "tel:+919487039560"
+    },
+    {
+      "text": "rkarthikeyan2193@gmail.com",
+      "href": "mailto:rkarthikeyan2193@gmail.com"
+    },
+    {
+      "text": "karthi.co",
+      "href": "https://www.karthi.co"
+    },
+    {
+      "text": "linkedin.com/in/karthiworld",
+      "href": "https://www.linkedin.com/in/karthiworld/"
+    }
+  ],
+  "professional_summary": "Senior Frontend Engineer with 10+ years of experience building scalable, high-performance web applications using React, Next.js, and TypeScript. Proven expertise in frontend architecture, performance optimization, and data-intensive dashboards for enterprise and AI/ML-driven platforms. Strong experience in designing end-to-end workflow systems, collaborating with cross-functional teams, and translating complex backend and AI processes into intuitive user interfaces. Passionate about clean architecture, system scalability, and global-ready (i18n) applications.",
+  "core_skills": [
+    "React.js, Next.js (SSR, SSG, ISR), Angular",
+    "JavaScript (ES6+), TypeScript, HTML5, CSS3",
+    "Tailwind CSS, Material UI (MUI), shadcn/ui, Bootstrap",
+    "Responsive & Mobile-First Design, Cross-Browser Compatibility",
+    "State Management: Redux Toolkit, Zustand",
+    "Data Fetching & Caching: TanStack Query (React Query), Axios",
+    "Forms & UI: react-hook-form, Framer Motion",
+    "Data Visualization: Recharts, Chart.js",
+    "Performance Optimization: Core Web Vitals (LCP, CLS, FID), Code Splitting, Lazy Loading, Memoization",
+    "Single Page Applications (SPA), Frontend Architecture & System Design (Scalable UI Systems)",
+    "SEO Optimization, Accessibility (WCAG, ARIA), i18n (RTL/LTR)",
+    "Testing: Jest, React Testing Library",
+    "Frontend Security: XSS, CSRF Protection, Secure Auth Flows",
+    "Build Tools: Webpack, Vite",
+    "Backend Integration: Node.js, Express.js (integration), REST APIs,Firebase",
+    "CI/CD Pipelines, Git, Agile/Scrum",
+    "AI-assisted Development: GitHub Copilot, ChatGPT, Claude, Gemini, Cursor AI, Codeium"
+  ],
+  "experience": [
+    {
+      "position": "Senior Frontend Developer",
+      "company": "Sony India Software Centre Pvt Ltd (via JoulestoWatts)",
+      "location": "Bangalore, India",
+      "date": "Jul 2023 – Dec 2025",
+      "bullets": [
+        "Architected and developed enterprise-scale frontend applications using React, Next.js, and TypeScript, supporting complex AI/ML-driven workflows",
+        "Designed and delivered data-intensive dashboards, reducing manual analysis effort by ~25–30%",
+        "Built reusable UI component libraries using Tailwind CSS and MUI, improving development velocity by ~20–25% across teams",
+        "Led frontend architecture decisions (code-splitting, lazy loading, rendering optimization), improving page load performance by ~35–40%",
+        "Optimized API data-fetching strategies using React Query, reducing redundant API calls by ~30–35%",
+        "Collaborated with AI/ML and backend teams to translate complex workflows into intuitive UI, improving onboarding efficiency by ~20%",
+        "Developed multi-step workflows and dynamic form systems, improving task completion rates by ~15–20%",
+        "Ensured SEO optimization, accessibility (WCAG), and cross-browser compatibility, reducing UI issues by ~25%"
+      ]
+    },
+    {
+      "position": "Technical Anchor / Senior UI Developer",
+      "company": "Subex Ltd",
+      "location": "Bangalore, India",
+      "date": "Oct 2018 – Jul 2023",
+      "bullets": [
+        "Led frontend development for enterprise platforms using React, Angular, and TypeScript.",
+        "Modernized legacy AngularJS applications by migrating them to component-based SPA architectures.",
+        "Built analytics dashboards visualizing telecom datasets using charts, KPIs, and filtering capabilities."
+      ]
+    },
+    {
+      "position": "Web Developer",
+      "company": "E-Centric Consultancy Services Pvt Ltd",
+      "location": "Bangalore, India",
+      "date": "Oct 2017 – Sep 2018",
+      "bullets": [
+        "Developed responsive web applications using HTML5, CSS3, JavaScript, and jQuery.",
+        "Converted Figma / PSD designs into pixel-perfect responsive user interfaces."
+      ]
+    },
+    {
+      "position": "Web Developer",
+      "company": "Blue Valley Properties Pvt Ltd",
+      "location": "Bangalore, India",
+      "date": "Apr 2015 – Oct 2017",
+      "bullets": [
+        "Built real estate portals and internal dashboards with frontend and backend integrations.",
+        "Created responsive landing pages optimized for SEO and performance."
+      ]
+    }
+  ],
+  "key_project": {
+    "title": "AI Dataset Utility Tool (License-Based ML Workflow Platform)",
+    "role": "Senior Frontend Developer",
+    "tech": "React.js, Next.js, TypeScript, Tailwind CSS, Material UI (MUI), Redux Toolkit, TanStack Query (React Query), Axios, REST APIs, Role-Based Access Control (RBAC), License Validation Logic, JSON Handling, File Upload & Processing (ZIP), Data Visualization (Recharts/Chart.js), Form Handling (react-hook-form), Node.js (integration), Express.js, Git",
+    "bullets": [
+      "Developed a role-based AI platform (Admin/User) to manage end-to-end ML workflows including dataset creation, annotation, training, evaluation, deployment, and model export",
+      "Implemented a license-driven feature control system, dynamically enabling/disabling capabilities (dataset limits, training, export permissions) based on license tiers",
+      "Built dataset ingestion pipelines supporting ZIP uploads, validation, and preprocessing for AI use cases such as classification, anomaly detection, and object detection",
+      "Designed annotation workflows for structured dataset labeling across multiple ML model types",
+      "Enabled complete ML lifecycle orchestration: project creation → dataset upload → annotation → training → evaluation → testing → deployment → export",
+      "Developed workflow validation logic to enforce license compliance and prevent invalid operations",
+      "Created interactive dashboards for managing datasets, projects, and model pipelines",
+      "Collaborated with cross-functional teams to align platform behavior with AI model requirements and licensing rules"
+    ]
+  },
+  "education": "Bachelor of Technology in Information Technology — Tamilnadu College of Engineering (TNCE), Coimbatore  Affiliated to Anna University, Chennai | 2011 – 2015",
+  "additional_notes": "Most projects were delivered as enterprise-grade and internal applications under NDA. Due to confidentiality constraints, public demos or live links are not available. Architecture decisions and individual contributions can be discussed in detail during interviews.",
+  "keywords": "Frontend Developer, React, Next.js, TypeScript, Angular, SPA, SSR, SSG, Dashboards, UI Components, Performance Optimization, Accessibility, Web Application Development, Responsive Design, Cross-Browser Compatibility, REST API Integration"
+}
